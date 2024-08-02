@@ -1,0 +1,26 @@
+# Portfolio of John Doe
+
+## Description
+This is my personal portfolio website where I showcase my projects and skills. The site is built with HTML, CSS, and JavaScript. It features a clean and professional design, is fully responsive, and includes sections for about me, my projects, and a contact form.
+
+## How to View Locally
+1. Clone this repository to your local machine:
+
+2. Navigate to the project directory:
+
+3. Open `index.html` in your preferred web browser.
+
+## Projects Included
+### Project Title 1
+- **Description:** This is a brief description of Project 1.
+- **Technologies:** HTML, CSS, JavaScript
+- **Link:** [View Project](https://github.com/username/project1)
+
+### Project Title 2
+- **Description:** This is a brief description of Project 2.
+- **Technologies:** HTML, CSS, React.js
+- **Link:** [View Project](https://github.com/username/project2)
+
+## Contact
+Feel free to reach out to me via the contact form on my portfolio or email me at tapfumamundondo@gmail.com.
+
